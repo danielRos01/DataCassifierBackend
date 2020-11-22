@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 django = "*"
 djangorestframework = "*"
+djangorestframework-simplejwt= "*"
+django-filter= "*"
 pyjwt = "*"
 drf-yasg = "*"
 gunicorn = "*"
